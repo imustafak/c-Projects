@@ -1,0 +1,13 @@
+C:\Users\KORKMAZ\source\repos\Ders\Ders\bin\Debug\netcoreapp3.1\Ders.exe
+C:\Users\KORKMAZ\source\repos\Ders\Ders\bin\Debug\netcoreapp3.1\Ders.deps.json
+C:\Users\KORKMAZ\source\repos\Ders\Ders\bin\Debug\netcoreapp3.1\Ders.runtimeconfig.json
+C:\Users\KORKMAZ\source\repos\Ders\Ders\bin\Debug\netcoreapp3.1\Ders.runtimeconfig.dev.json
+C:\Users\KORKMAZ\source\repos\Ders\Ders\bin\Debug\netcoreapp3.1\Ders.dll
+C:\Users\KORKMAZ\source\repos\Ders\Ders\bin\Debug\netcoreapp3.1\Ders.pdb
+C:\Users\KORKMAZ\source\repos\Ders\Ders\obj\Debug\netcoreapp3.1\Ders.csprojAssemblyReference.cache
+C:\Users\KORKMAZ\source\repos\Ders\Ders\obj\Debug\netcoreapp3.1\Ders.AssemblyInfoInputs.cache
+C:\Users\KORKMAZ\source\repos\Ders\Ders\obj\Debug\netcoreapp3.1\Ders.AssemblyInfo.cs
+C:\Users\KORKMAZ\source\repos\Ders\Ders\obj\Debug\netcoreapp3.1\Ders.csproj.CoreCompileInputs.cache
+C:\Users\KORKMAZ\source\repos\Ders\Ders\obj\Debug\netcoreapp3.1\Ders.dll
+C:\Users\KORKMAZ\source\repos\Ders\Ders\obj\Debug\netcoreapp3.1\Ders.pdb
+C:\Users\KORKMAZ\source\repos\Ders\Ders\obj\Debug\netcoreapp3.1\Ders.genruntimeconfig.cache
