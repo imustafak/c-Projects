@@ -1,0 +1,13 @@
+C:\Users\KORKMAZ\source\repos\Operatorler\Operatorler\bin\Debug\netcoreapp3.1\Operatorler.exe
+C:\Users\KORKMAZ\source\repos\Operatorler\Operatorler\bin\Debug\netcoreapp3.1\Operatorler.deps.json
+C:\Users\KORKMAZ\source\repos\Operatorler\Operatorler\bin\Debug\netcoreapp3.1\Operatorler.runtimeconfig.json
+C:\Users\KORKMAZ\source\repos\Operatorler\Operatorler\bin\Debug\netcoreapp3.1\Operatorler.runtimeconfig.dev.json
+C:\Users\KORKMAZ\source\repos\Operatorler\Operatorler\bin\Debug\netcoreapp3.1\Operatorler.dll
+C:\Users\KORKMAZ\source\repos\Operatorler\Operatorler\bin\Debug\netcoreapp3.1\Operatorler.pdb
+C:\Users\KORKMAZ\source\repos\Operatorler\Operatorler\obj\Debug\netcoreapp3.1\Operatorler.csprojAssemblyReference.cache
+C:\Users\KORKMAZ\source\repos\Operatorler\Operatorler\obj\Debug\netcoreapp3.1\Operatorler.AssemblyInfoInputs.cache
+C:\Users\KORKMAZ\source\repos\Operatorler\Operatorler\obj\Debug\netcoreapp3.1\Operatorler.AssemblyInfo.cs
+C:\Users\KORKMAZ\source\repos\Operatorler\Operatorler\obj\Debug\netcoreapp3.1\Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\KORKMAZ\source\repos\Operatorler\Operatorler\obj\Debug\netcoreapp3.1\Operatorler.dll
+C:\Users\KORKMAZ\source\repos\Operatorler\Operatorler\obj\Debug\netcoreapp3.1\Operatorler.pdb
+C:\Users\KORKMAZ\source\repos\Operatorler\Operatorler\obj\Debug\netcoreapp3.1\Operatorler.genruntimeconfig.cache
