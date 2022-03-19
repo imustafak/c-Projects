@@ -1,0 +1,13 @@
+C:\Users\KORKMAZ\source\repos\TipDonusumleri\TipDonusumleri\bin\Debug\netcoreapp3.1\TipDonusumleri.exe
+C:\Users\KORKMAZ\source\repos\TipDonusumleri\TipDonusumleri\bin\Debug\netcoreapp3.1\TipDonusumleri.deps.json
+C:\Users\KORKMAZ\source\repos\TipDonusumleri\TipDonusumleri\bin\Debug\netcoreapp3.1\TipDonusumleri.runtimeconfig.json
+C:\Users\KORKMAZ\source\repos\TipDonusumleri\TipDonusumleri\bin\Debug\netcoreapp3.1\TipDonusumleri.runtimeconfig.dev.json
+C:\Users\KORKMAZ\source\repos\TipDonusumleri\TipDonusumleri\bin\Debug\netcoreapp3.1\TipDonusumleri.dll
+C:\Users\KORKMAZ\source\repos\TipDonusumleri\TipDonusumleri\bin\Debug\netcoreapp3.1\TipDonusumleri.pdb
+C:\Users\KORKMAZ\source\repos\TipDonusumleri\TipDonusumleri\obj\Debug\netcoreapp3.1\TipDonusumleri.csprojAssemblyReference.cache
+C:\Users\KORKMAZ\source\repos\TipDonusumleri\TipDonusumleri\obj\Debug\netcoreapp3.1\TipDonusumleri.AssemblyInfoInputs.cache
+C:\Users\KORKMAZ\source\repos\TipDonusumleri\TipDonusumleri\obj\Debug\netcoreapp3.1\TipDonusumleri.AssemblyInfo.cs
+C:\Users\KORKMAZ\source\repos\TipDonusumleri\TipDonusumleri\obj\Debug\netcoreapp3.1\TipDonusumleri.csproj.CoreCompileInputs.cache
+C:\Users\KORKMAZ\source\repos\TipDonusumleri\TipDonusumleri\obj\Debug\netcoreapp3.1\TipDonusumleri.dll
+C:\Users\KORKMAZ\source\repos\TipDonusumleri\TipDonusumleri\obj\Debug\netcoreapp3.1\TipDonusumleri.pdb
+C:\Users\KORKMAZ\source\repos\TipDonusumleri\TipDonusumleri\obj\Debug\netcoreapp3.1\TipDonusumleri.genruntimeconfig.cache
