@@ -1,0 +1,7 @@
+C:\Users\KORKMAZ\source\repos\IfElseIf\IfElseIf\bin\Debug\IfElseIf.exe.config
+C:\Users\KORKMAZ\source\repos\IfElseIf\IfElseIf\bin\Debug\IfElseIf.exe
+C:\Users\KORKMAZ\source\repos\IfElseIf\IfElseIf\bin\Debug\IfElseIf.pdb
+C:\Users\KORKMAZ\source\repos\IfElseIf\IfElseIf\obj\Debug\IfElseIf.csprojAssemblyReference.cache
+C:\Users\KORKMAZ\source\repos\IfElseIf\IfElseIf\obj\Debug\IfElseIf.csproj.CoreCompileInputs.cache
+C:\Users\KORKMAZ\source\repos\IfElseIf\IfElseIf\obj\Debug\IfElseIf.exe
+C:\Users\KORKMAZ\source\repos\IfElseIf\IfElseIf\obj\Debug\IfElseIf.pdb
