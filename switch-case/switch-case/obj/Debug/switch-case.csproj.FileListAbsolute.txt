@@ -1,0 +1,7 @@
+C:\Users\KORKMAZ\source\repos\switch-case\switch-case\bin\Debug\switch-case.exe.config
+C:\Users\KORKMAZ\source\repos\switch-case\switch-case\bin\Debug\switch-case.exe
+C:\Users\KORKMAZ\source\repos\switch-case\switch-case\bin\Debug\switch-case.pdb
+C:\Users\KORKMAZ\source\repos\switch-case\switch-case\obj\Debug\switch-case.csprojAssemblyReference.cache
+C:\Users\KORKMAZ\source\repos\switch-case\switch-case\obj\Debug\switch-case.csproj.CoreCompileInputs.cache
+C:\Users\KORKMAZ\source\repos\switch-case\switch-case\obj\Debug\switch-case.exe
+C:\Users\KORKMAZ\source\repos\switch-case\switch-case\obj\Debug\switch-case.pdb
