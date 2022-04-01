@@ -1,0 +1,7 @@
+C:\Users\KORKMAZ\source\repos\donguler-for-loop\donguler-for-loop\bin\Debug\donguler-for-loop.exe.config
+C:\Users\KORKMAZ\source\repos\donguler-for-loop\donguler-for-loop\bin\Debug\donguler-for-loop.exe
+C:\Users\KORKMAZ\source\repos\donguler-for-loop\donguler-for-loop\bin\Debug\donguler-for-loop.pdb
+C:\Users\KORKMAZ\source\repos\donguler-for-loop\donguler-for-loop\obj\Debug\donguler-for-loop.csprojAssemblyReference.cache
+C:\Users\KORKMAZ\source\repos\donguler-for-loop\donguler-for-loop\obj\Debug\donguler-for-loop.csproj.CoreCompileInputs.cache
+C:\Users\KORKMAZ\source\repos\donguler-for-loop\donguler-for-loop\obj\Debug\donguler-for-loop.exe
+C:\Users\KORKMAZ\source\repos\donguler-for-loop\donguler-for-loop\obj\Debug\donguler-for-loop.pdb
