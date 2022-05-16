@@ -1,0 +1,7 @@
+C:\Users\KORKMAZ\source\repos\DizilerArraySinifiMetodlari\DizilerArraySinifiMetodlari\bin\Debug\DizilerArraySinifiMetodlari.exe.config
+C:\Users\KORKMAZ\source\repos\DizilerArraySinifiMetodlari\DizilerArraySinifiMetodlari\bin\Debug\DizilerArraySinifiMetodlari.exe
+C:\Users\KORKMAZ\source\repos\DizilerArraySinifiMetodlari\DizilerArraySinifiMetodlari\bin\Debug\DizilerArraySinifiMetodlari.pdb
+C:\Users\KORKMAZ\source\repos\DizilerArraySinifiMetodlari\DizilerArraySinifiMetodlari\obj\Debug\DizilerArraySinifiMetodlari.csprojAssemblyReference.cache
+C:\Users\KORKMAZ\source\repos\DizilerArraySinifiMetodlari\DizilerArraySinifiMetodlari\obj\Debug\DizilerArraySinifiMetodlari.csproj.CoreCompileInputs.cache
+C:\Users\KORKMAZ\source\repos\DizilerArraySinifiMetodlari\DizilerArraySinifiMetodlari\obj\Debug\DizilerArraySinifiMetodlari.exe
+C:\Users\KORKMAZ\source\repos\DizilerArraySinifiMetodlari\DizilerArraySinifiMetodlari\obj\Debug\DizilerArraySinifiMetodlari.pdb
