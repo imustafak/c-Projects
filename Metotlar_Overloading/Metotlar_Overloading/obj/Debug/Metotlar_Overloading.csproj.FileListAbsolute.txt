@@ -1,0 +1,2 @@
+C:\Users\KORKMAZ\source\repos\Metotlar_Overloading\Metotlar_Overloading\obj\Debug\Metotlar_Overloading.csprojAssemblyReference.cache
+C:\Users\KORKMAZ\source\repos\Metotlar_Overloading\Metotlar_Overloading\obj\Debug\Metotlar_Overloading.csproj.CoreCompileInputs.cache
