@@ -1,0 +1,7 @@
+C:\Users\KORKMAZ\source\repos\recursive_extension\recursive_extension\bin\Debug\recursive_extension.exe.config
+C:\Users\KORKMAZ\source\repos\recursive_extension\recursive_extension\bin\Debug\recursive_extension.exe
+C:\Users\KORKMAZ\source\repos\recursive_extension\recursive_extension\bin\Debug\recursive_extension.pdb
+C:\Users\KORKMAZ\source\repos\recursive_extension\recursive_extension\obj\Debug\recursive_extension.csprojAssemblyReference.cache
+C:\Users\KORKMAZ\source\repos\recursive_extension\recursive_extension\obj\Debug\recursive_extension.csproj.CoreCompileInputs.cache
+C:\Users\KORKMAZ\source\repos\recursive_extension\recursive_extension\obj\Debug\recursive_extension.exe
+C:\Users\KORKMAZ\source\repos\recursive_extension\recursive_extension\obj\Debug\recursive_extension.pdb
